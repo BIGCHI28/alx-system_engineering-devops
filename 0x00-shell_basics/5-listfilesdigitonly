@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lna /alx-system_engineering_devops
+ls -l -a -n
